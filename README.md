@@ -129,7 +129,7 @@ El informe final incorpora las conclusiones del análisis junto con las fuentes 
 
 **Abogada | Desarrolladora | Counselor**
 
-Profesional con más de 20 años de experiencia en el ámbito jurídico y una sólida formación en desarrollo de software e Inteligencia Artificial aplicada al sector legal.
+Profesional con más de 20 años de experiencia en el ámbito jurídico y desarrolladora junior en constante aprendizaje, enfocada en el desarrollo de soluciones de Inteligencia Artificial y LegalTech que integren tecnología, ética y derecho.
 
 🔗 Conecta conmigo en LinkedIn
 https://www.linkedin.com/in/noelia-orsini/
