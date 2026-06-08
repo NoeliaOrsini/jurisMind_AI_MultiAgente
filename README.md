@@ -82,6 +82,10 @@ La siguiente captura muestra la interfaz de usuario y una respuesta generada por
 
 ![Funcionamiento del Sistema](assets/funcionamiento.png)
 
+## Modelos Matemáticos para la Privacidad de Datos
+
+![Modelos Matemáticos para la Privacidad de Datos](assets/informe.png)
+
 ## Legislación argentina
 
 ![Informe Legislación argentina](assets/informe_1.png)
