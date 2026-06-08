@@ -82,6 +82,21 @@ La siguiente captura muestra la interfaz de usuario y una respuesta generada por
 
 ![Funcionamiento del Sistema](assets/funcionamiento.png)
 
+## Legislación argentina
+
+![Informe Legislación argentina](assets/informe_1.png)
+
+## Regulación española
+
+![Informe regulación española](assets/informe_2.png)
+
+## Migración de Riesgos Técnicos
+
+![Informe Migración de Riesgos Técnicos](assets/informe_3.png)
+
+
+
+
 ### 📚 Trazabilidad de Fuentes
 
 El informe final incorpora las conclusiones del análisis junto con las fuentes legales y la doctrina científica consultada, permitiendo verificar el fundamento de cada respuesta generada por el sistema.
