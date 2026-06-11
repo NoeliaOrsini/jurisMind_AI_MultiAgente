@@ -99,13 +99,18 @@ La siguiente captura muestra la interfaz de usuario y una respuesta generada por
 ![Informe Migración de Riesgos Técnicos](assets/informe_3.png)
 
 
-
-
 ### 📚 Trazabilidad de Fuentes
 
 El informe final incorpora las conclusiones del análisis junto con las fuentes legales y la doctrina científica consultada, permitiendo verificar el fundamento de cada respuesta generada por el sistema.
 
 ![Fuentes y Doctrina Científica](assets/arvix.png)
+
+
+### Manejo de Errores y Robustez: 
+
+JurisMind está configurado para gestionar la saturación de solicitudes (Error 429). Esto demuestra un sistema resiliente que prioriza la estabilidad de la conexión y evita la degradación del servicio durante picos de demanda
+
+![Manejo Error 429](assets/error_429.png)
 
 ---
 
